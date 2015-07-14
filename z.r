@@ -24,7 +24,7 @@ fahrToCelsius <- function(x){
   return(y)
 }
 
-roundedTemp <- function(x){
+roundedTemp <- function(x){ #might wanna think about this?
   y <- round(x)
   return(y)
 }
